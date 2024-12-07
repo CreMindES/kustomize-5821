@@ -4,4 +4,4 @@ kind: Service
 metadata:
   labels:
     dev: foo
-  name: app-a
+  name: app
